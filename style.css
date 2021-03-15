@@ -3,3 +3,45 @@ body {
   height: 100%;
   margin: 0;
 }
+
+ header nav {
+  text-align: center; 
+  padding-left: 10px;
+  padding-right: 10px;
+  display: table;
+  margin: 0px auto 0px auto;
+  background-color:aquamarine;
+}
+
+header h2 {
+  text-align: center; 
+}
+
+
+section#featured-property {
+ text-align: center; 
+}
+
+
+section > p {
+   max-width: 700px;
+   margin: 0 auto;
+ }
+
+ 
+ h3#correspondence {
+  float: left;
+  padding: 15px;
+}
+
+h3#links {
+  background: red;
+}
+
+
+div {
+  float:left;
+  text-align:center;
+  background-color: aquamarine;
+  width: 25%;
+}
